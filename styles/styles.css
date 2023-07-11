@@ -471,7 +471,6 @@ section {
     display: flex;
     flex-direction: row;
     gap: 1rem;
-    background-color: olive;
   }
 
 }
